@@ -1,16 +1,23 @@
-## Hi there 👋
+welcome to my github profile
+![welcome-header](https://github.com/user-attachments/assets/02dfabfb-9242-4dcc-8e9f-f64893f531ab)
 
-<!--
-**AhmadAlabrash/AhmadAlabrash** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+i love code   ![cat-typing](https://github.com/user-attachments/assets/493f2581-01d1-4238-8015-82dfecf0e0d3)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+![party-furby](https://github.com/user-attachments/assets/28fb030d-0fe6-4105-97c3-92d305ba6367)
+
+
+
+
+check out my latest app
+![counter](https://github.com/user-attachments/assets/dffe24f6-8c36-452b-ac2b-a52d714f08dd)
+
+
+
+
+
+![flames](https://github.com/user-attachments/assets/fe08a64a-4645-4d1c-9570-ce1f6cfecdea)
+
+
