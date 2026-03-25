@@ -1,4 +1,3 @@
-welcome to my github profile
 ![welcome-header](https://github.com/user-attachments/assets/02dfabfb-9242-4dcc-8e9f-f64893f531ab)
 
 
@@ -8,6 +7,7 @@ i love code   ![cat-typing](https://github.com/user-attachments/assets/493f2581-
 
 ![party-furby](https://github.com/user-attachments/assets/28fb030d-0fe6-4105-97c3-92d305ba6367)
 
+![under-construction](https://github.com/user-attachments/assets/376a5394-292b-4a89-b92c-51958d93a959)
 
 
 
